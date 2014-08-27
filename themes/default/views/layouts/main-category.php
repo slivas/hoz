@@ -9,25 +9,25 @@
         <div class="category-lvl-1">
             <a href="#">
                 <span class="img-category-lvl-1"></span>
-                <h5>Гайковёрт</h5>
+                <h5>Гайковёрты</h5>
             </a>
         </div>
         <div class="category-lvl-1">
             <a href="#">
                 <span class="img-category-lvl-1"></span>
-                <h5>Гайковёрт</h5>
+                <h5>Шуруповерты</h5>
             </a>
         </div>
         <div class="category-lvl-1">
             <a href="#">
                 <span class="img-category-lvl-1"></span>
-                <h5>Гайковёрт</h5>
+                <h5>Болгарки</h5>
             </a>
         </div>
         <div class="category-lvl-1">
             <a href="#">
                 <span class="img-category-lvl-1"></span>
-                <h5>Гайковёрт</h5>
+                <h5>Дрели</h5>
             </a>
         </div>
         <div class="category-lvl-1">

@@ -1,62 +1,117 @@
 <?php
-   include('header.php');
+include('header.php');
 ?>
     <ul class="breadcrumb">
-        <li><a href="#">Главная</a> <span class="divider">/</span></li>
-        <li><a href="#">Электроинструмент</a> <span class="divider">/</span></li>
-        <li><a href="#">Шуруповерты</a><span class="divider">/</span></li>
-        <li><a href="#">Дрель-шуруповерт Ижмаш ПШИ-980</a></li>
+        <li><a href="#">Главная</a><span class="divider">/</span></li>
+        <li><a href="#">Электроинструмент</a><span class="divider">/</span></li>
+        <li><a href="#">Дрели</a></li>
     </ul>
     <div class="row">
-        <h4 class="product-name-h">Дрель-шуруповерт Ижмаш ПШИ-980</h4>
-        <div class="pull-left">
-            <div class="product-one">
-                <img src="/web/images/img-product.png">
-            </div>
-            <a href="#" class="product-buy" title="">Купить</a>
-        </div>
-        <div class="tabbable pull-left"> <!-- Only required for left/right tabs -->
-            <ul class="nav nav-tabs">
-                <li class="active">
-                    <a href="#tab1" data-toggle="tab">Основное</a>
-                </li>
-                <li>
-                    <a href="#tab2" data-toggle="tab">Характеристики</a>
-                </li>
-                <li>
-                    <a href="#tab3" data-toggle="tab">Отзывы</a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div class="tab-pane active" id="tab1">
-                    <ul class="tab-content-ul">
-                        <li class="availability-yes">В наличии</li>
-                        <li>Цена</li>
+        <div class="products pull-left">
+            <div class="product pull-left">
+                <h5>Дрель-шуруповерт Ижмаш Профи ПШИ-980</h5>
+                <div class="pull-left">
+                    <div class="products-one">
+                        <img src="/web/images/img-product.png">
+                    </div>
+                </div>
+                <div class="product-info pull-left">
+                    <ul class="product-properties">
+                        <li>2 скорости</li>
+                        <li>Металлический патрон</li>
+                        <li>Мощность 0,98 кВт</li>
+                        <li>Супер шнур</li>
+                        <li class="price">Цена: 250 грн.</li>
                     </ul>
+                    <div class="clear"></div>
+                    <a href="#" class="buy-product" title="">Купить</a>
+                    <a href="#" class="view-product" title="">Подробнее</a>
                 </div>
-                <div class="tab-pane" id="tab2">
-                    <p>Привет, я 2-я секция.</p>
+            </div>
+            <div class="product pull-left">
+                <h5>Дрель-шуруповерт Ижмаш Профи ПШИ-980</h5>
+                <div class="pull-left">
+                    <div class="products-one">
+                        <img src="/web/images/img-product.png">
+                    </div>
                 </div>
-                <div class="tab-pane" id="tab3">
-                    <p>Ну а я - отзывы.</p>
+                <div class="product-info pull-left">
+                    <ul class="product-properties">
+                        <li>2 скорости</li>
+                        <li>Металлический патрон</li>
+                        <li>Мощность 0,98 кВт</li>
+                        <li>Супер шнур</li>
+                        <li class="price">Цена: 250 грн.</li>
+                    </ul>
+                    <div class="clear"></div>
+                    <a href="#" class="buy-product" title="">Купить</a>
+                    <a href="#" class="view-product" title="">Подробнее</a>
+                </div>
+            </div>
+            <div class="product pull-left">
+                <h5>Дрель-шуруповерт Ижмаш Профи ПШИ-980</h5>
+                <div class="pull-left">
+                    <div class="products-one">
+                        <img src="/web/images/img-product.png">
+                    </div>
+                </div>
+                <div class="product-info pull-left">
+                    <ul class="product-properties">
+                        <li>2 скорости</li>
+                        <li>Металлический патрон</li>
+                        <li>Мощность 0,98 кВт</li>
+                        <li>Супер шнур</li>
+                        <li class="price">Цена: 250 грн.</li>
+                    </ul>
+                    <div class="clear"></div>
+                    <a href="#" class="buy-product" title="">Купить</a>
+                    <a href="#" class="view-product" title="">Подробнее</a>
+                </div>
+            </div>
+            <div class="product pull-left">
+                <h5>Дрель-шуруповерт Ижмаш Профи ПШИ-980</h5>
+                <div class="pull-left">
+                    <div class="products-one">
+                        <img src="/web/images/img-product.png">
+                    </div>
+                </div>
+                <div class="product-info pull-left">
+                    <ul class="product-properties">
+                        <li>2 скорости</li>
+                        <li>Металлический патрон</li>
+                        <li>Мощность 0,98 кВт</li>
+                        <li>Супер шнур</li>
+                        <li class="price">Цена: 250 грн.</li>
+                    </ul>
+                    <div class="clear"></div>
+                    <a href="#" class="buy-product" title="">Купить</a>
+                    <a href="#" class="view-product" title="">Подробнее</a>
+                </div>
+            </div>
+            <div class="product pull-left">
+                <h5>Дрель-шуруповерт Ижмаш Профи ПШИ-980</h5>
+                <div class="pull-left">
+                    <div class="products-one">
+                        <img src="/web/images/img-product.png">
+                    </div>
+                </div>
+                <div class="product-info pull-left">
+                    <ul class="product-properties">
+                        <li>2 скорости</li>
+                        <li>Металлический патрон</li>
+                        <li>Мощность 0,98 кВт</li>
+                        <li>Супер шнур</li>
+                        <li class="price">Цена: 250 грн.</li>
+                    </ul>
+                    <div class="clear"></div>
+                    <a href="#" class="buy-product" title="">Купить</a>
+                    <a href="#" class="view-product" title="">Подробнее</a>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row views">
-        <h5>Вы просматривали</h5>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
-        <div class="my-views"></div>
+        <div class="right-block pull-right"></div>
     </div>
 
 <?php
-    include('footer.php');
+include ('footer.php');
 ?>

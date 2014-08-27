@@ -53,7 +53,7 @@
         </div>
     </div>
     <div class="header">
-        <div class="wrapper">
+        <div class="header-wrapper">
             <div class="pull-left">
                 <a href="/" title="На главную">
                     <img src="/web/images/logo.png" class="logo">
@@ -66,7 +66,11 @@
                 <div class="clear"></div>
             </div>
             <div class="pull-left basket">
-                <div class="basket-img pull-left"></div>
+                <div class="pull-left">
+                    <a href="#">
+                        <span class="basket-img" title="Перейти в корзину"></span>
+                    </a>
+                </div>
                 <ul class="pull-left">
                     <li>
                         <h5>Корзина</h5>
@@ -78,7 +82,7 @@
         </div>
     </div>
     <div class="menu">
-        <div class="wrapper">
+        <div class="header-wrapper">
             <ul class="nav category-menu">
                 <li class="dropdown inline-block" >
                     <a class="dropdown-toggle"data-target="#" href="top_page.html">
